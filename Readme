@@ -1,0 +1,5 @@
+#Usage example
+
+cd initech_search
+bundle
+rake search
